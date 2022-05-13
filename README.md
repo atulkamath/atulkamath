@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, NextJs, Html, Css, Js**
 
-- 📫 I'm currently looking for a job, If you're hiring get in touch! **realatulkamath@gmail.com**
+- 📫 Get in touch! **realatulkamath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
