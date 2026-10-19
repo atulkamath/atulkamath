@@ -1,10 +1,10 @@
 # Hey there!
 
-I'm [Atul](https://www.linkedin.com/in/atul-kamath/) a Frontend engineer based in Dubai. I enjoy building applications which are a joy to use. Focused on the tiny details, annoying details and well, the actual details, I build applications that are fast, modern and get the task done.
+I'm [Atul](https://www.linkedin.com/in/atul-kamath/), a frontend engineer based in Dubai. I enjoy building applications that are a joy to use. Focused on the tiny details, the annoying details and, well, the actual details, I build applications that are fast, modern and get the job done.
 
-My current tech stack includes
-- React, TypeScript, Next.Js, Tailwind, Claude/Cursor.
-- Occasionally dabble with React native too.
+My current tech stack:
+- React, TypeScript, Next.js, Tailwind, Claude/Cursor
+- I occasionally dabble in React Native too
 ---
 ## Side Projects I'm Proud of
 
