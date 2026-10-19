@@ -8,9 +8,9 @@ My current tech stack:
 ---
 ## Side Projects I'm Proud of
 
-🏎️ [Test Track](https://github.com/atulkamath/test-track) ([live demo](https://test-track-1.vercel.app/)) - A 3D racing game in the browser. Same moves give the same lap time on any device, so times can't be faked. Next.js, React Three Fiber, TypeScript.
+🏎️ [Test Track](https://github.com/atulkamath/test-track) ([try it](https://test-track-1.vercel.app/)) - A 3D racing game in the browser. Same moves give the same lap time on any device, so times can't be faked. Next.js, React Three Fiber, TypeScript.
 
-📺 [TV Track](https://github.com/atulkamath/tv-track) ([live demo](https://tv-track-five.vercel.app)) - Log what you've watched in plain English and compare watch time with friends. Next.js, NestJS, PostgreSQL, LLM + TMDB.
+📺 [TV Track](https://github.com/atulkamath/tv-track) ([try it](https://tv-track-five.vercel.app)) - Log what you've watched in plain English and compare watch time with friends. Next.js, NestJS, PostgreSQL, LLM + TMDB.
 
 💸 [Subscription Tracker](https://github.com/atulkamath/subscription-tracker) - Track your subscriptions and add renewal dates to your calendar.
 
