@@ -6,10 +6,12 @@ My current tech stack includes
 - React, TypeScript, Next.Js, Tailwind, Claude/Cursor.
 - Occasionally dabble with React native too.
 ---
-Side Projects I'm Proud of
+## Side Projects I'm Proud of
 
-🛒 [Amazon Clone](https://github.com/atulkamath/nextjs-15-amazon-clone-with-shopify) - An Amazon clone with Auth, Cart, Search, Product Listings created with Next.JS 15, Shopify as a Headless SaaS and GraphQL.
+🏎️ [Test Track](https://github.com/atulkamath/test-track) ([play](https://test-track-1.vercel.app/)) - A 3D racing game in the browser. Same moves give the same lap time on any device, so times can't be faked. Next.js, React Three Fiber, TypeScript.
 
-💸 [Subscription Tracker](https://github.com/atulkamath/subscription-tracker) - FullStack application for listing down subscriptions and exporting the renewal date to calendar.
+📺 [TV Track](https://github.com/atulkamath/tv-track) ([live](https://tv-track-five.vercel.app)) - Log what you've watched in plain English and compare watch time with friends. Next.js, NestJS, PostgreSQL, LLM + TMDB.
 
-🍿 [Netflix Clone](https://github.com/atulkamath/netflix-clone) - A Netflix clone with Auth + data fetching with the Next.JS pages router.
+💸 [Subscription Tracker](https://github.com/atulkamath/subscription-tracker) - Track your subscriptions and add renewal dates to your calendar.
+
+🛒 [Amazon Clone](https://github.com/atulkamath/nextjs-15-amazon-clone-with-shopify) - Store with auth, cart and search. Next.js 15, Shopify headless, GraphQL.
