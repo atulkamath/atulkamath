@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm [Atul](https://www.linkedin.com/in/atul-kamath/), a frontend engineer based in Dubai. I enjoy building applications that are a joy to use. I build applications that are fast, modern and get the job done.
+I'm [Atul](https://www.linkedin.com/in/atul-kamath/), a frontend engineer based in Dubai. I build applications that are fast, modern and a joy to use.
 
 My current tech stack:
 - React, TypeScript, Next.js, Tailwind, Claude/Cursor
